@@ -102,7 +102,7 @@ Two dashboards were created: an **Overview Dashboard** and an **Insights Dashboa
 - **Slicer**: Continent filter for dynamic analysis.
 
 - ### **View Dashboards**
-- [Overview Dashboard](#)  
+- [Overview Dashboard](Unicorn Overview dashboard.png)  
 - [Insights Dashboard](#)  
 
 ## **Insights from the Data Analysis**
