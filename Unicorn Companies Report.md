@@ -82,16 +82,28 @@ Key performance indicators (KPIs) analyzed:
 - **Total Number of Unicorn Companies**
 - **Total Number of Investors**
 
-### **View Dashboards**
+## **Data Visualization in Excel**
+Two dashboards were created: an **Overview Dashboard** and an **Insights Dashboard**.
+
+### **Overview Dashboard**
+- **KPI Cards**: Avg ROI, Avg Years to Unicorn, Total Unicorn Companies, Total Investors.
+- **Bar Chart**: Top 10 Investors in Unicorn Companies.
+- **Line Chart**: Time Taken to Reach Unicorn Status.
+- **Lollipop Chart**: Top 5 Unicorn Companies by ROI.
+- **Map**: Countries Producing the Most Unicorns.
+
+### **Insights Dashboard**
+- **Bar Chart**: Top Industries by ROI.
+- **Bar Chart**: Top Cities by ROI.
+- **Bar Chart**: Top 5 Investors.
+- **Bar Chart**: Average Years to Unicorn by Industry.
+- **Bar Chart**: Top 5 Industries by Investment.
+- **Bar Chart**: Top Cities with the Most Unicorns.
+- **Slicer**: Continent filter for dynamic analysis.
+
+- ### **View Dashboards**
 - [Overview Dashboard](#)  
 - [Insights Dashboard](#)  
-
-## **Data Visualization in Excel**
-
-Dashboards created:
-
-- **Overview Dashboard**  
-- **Insights Dashboard**  
 
 ## **Insights from the Data Analysis**
 
